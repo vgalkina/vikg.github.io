@@ -1,0 +1,20 @@
+.prod_menu1 {    
+    padding-bottom: 72px;
+}
+
+.prod-link:hover {
+    color: #212121;
+    font-weight: 800;
+    border-bottom: 3px solid black;    
+}
+
+.trending2 {
+    width: 1170px;
+    }
+    
+.refresh {
+    margin-top: 71px;
+    width: 1170px;
+    text-align: center;
+}
+

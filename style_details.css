@@ -1,0 +1,175 @@
+.container {
+    width: 1366px;
+    height: 2129px;    
+}
+
+.main {
+    height: 119px;
+}
+
+.prod_menu {
+    height: 71px;
+    background-color: #f4f4f4;
+    
+}
+
+.link_menu {
+    padding-top: 28px;
+    padding-left: 360px;
+}
+
+.prod-link {
+    text-align: center;
+    color: #6c6c6c;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 1.8px;
+    padding: 10px 13px;
+}
+
+.prod-link:hover {
+    color: #212121;
+    font-weight: 800;
+}
+
+.product_details {
+    margin-top: 72px;
+    display: flex;
+    height: 968px;
+}
+
+.product_slider {
+    float: left;
+    display: block;
+}
+
+.small_slider {
+    width: 570px;
+    margin-top: 11px;
+    text-align: center;
+}
+
+.small_pic {
+    padding-right: 10px;
+}
+
+.product_text {
+    width: 510px;
+    text-align: center;
+    margin-left: 56px;
+}
+
+.h3_Fishnet_chair {
+    color: #212121;
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 48px;
+    line-height: 36px;
+}
+
+.hotdeal {
+    color: #e53935;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+    margin-top: 23px;
+}
+
+.price {
+    display: inline-flex;
+    line-height: 48px;
+    height: 55px;
+    margin-top: 36px;
+    margin-bottom: 31px;
+}
+
+.dollar, .ed {
+    font-size: 36px;
+    font-weight: 300;
+}
+
+.value {
+    font-size: 72px;
+    margin-left: 20px;
+}
+
+.ed {    
+    margin-left: 5px;
+}
+
+.big_button {
+    color: #212121;
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 4.4px;
+    width: 510px;
+    height: 71px;
+    box-shadow: 0 2px 5px 1px rgba(33, 33, 33, 0.35);
+    border-radius: 35px;
+    background-color: #ffffff;
+    text-align: center;
+    line-height: 71px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.big_button:hover {
+    color: #ffffff;
+    background-color: #f44336;
+}
+
+.big_button:active {
+    box-shadow: 0 3px 3px 3px rgba(63, 13, 13, 0.35);
+    background-color: darkred;
+}
+
+.product_content {
+    text-align: left;
+    margin-top: 49px;
+}
+
+.related_products {
+    height: 468px;
+    margin-bottom: 120px;
+}
+
+.RelatedProd {
+    width: 415px;
+    height: 35px;
+    color: #212121;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.explore1 {
+    float: right;
+    color: #212121;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: none;
+    line-height: 24px;
+    font-size: 18px;
+    letter-spacing: 3.6px;
+}
+
+.explore1:hover {
+    text-shadow: 3px 3px 3px rgba(63, 13, 13, 0.35);
+}
+
+.rel-content {
+    width: 1170px;
+    display: inline-block;
+    margin-top: 68px;
+    height: 468px;
+}
+
+.rel_tab1 {
+    float: left;
+    margin-top: 68px;
+    display: flex;
+}
+
